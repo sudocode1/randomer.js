@@ -1,0 +1,31 @@
+{
+  "name": "randomer.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudocode1/randomer.js.git"
+  },
+  "keywords": [
+    "random",
+    "randomer",
+    "randomer.js",
+    "random",
+    "arrays",
+    "arrays",
+    "randoms"
+  ],
+  "author": "sudocode1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sudocode1/randomer.js/issues"
+  },
+  "homepage": "https://github.com/sudocode1/randomer.js#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
