@@ -5,5 +5,5 @@ exports.array = function(array) {
 }
 
 exports.number = function(number) {
-    return Math.floor(Math.random() * number);
+    return Math.floor(Math.random() * parseFloat(number));
 }
